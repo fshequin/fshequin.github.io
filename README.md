@@ -1,2 +1,2 @@
-# fshequin.github.io
+# Fred Shequine
 Wordpress & Laravel Developer
