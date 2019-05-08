@@ -4,4 +4,4 @@ sass:
 
 title: Fred Shequine
 description: Wordpress & Laravel Developer
-#show_downloads: true
+show_downloads: false
