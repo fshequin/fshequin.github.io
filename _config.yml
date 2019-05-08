@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-
 sass:
     sass_dir: _sass
+
+title: Fred Shequine
+description: Wordpress & Laravel Developer
