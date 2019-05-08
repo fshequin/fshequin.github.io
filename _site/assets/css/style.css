@@ -319,3 +319,5 @@ a:hover { text-decoration: underline; }
 .site-footer-credits { color: #819198; }
 
 h2#welcome-to-github-pages { color: #000000; }
+
+.btc-bars { width: 50px; height: auto; transform: rotate(180deg); }
