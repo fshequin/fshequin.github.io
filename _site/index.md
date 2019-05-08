@@ -1,4 +1,4 @@
-## Welcome to Github pages
+## Welcome
 
 You can use the [editor on GitHub](https://github.com/fshequin/fshequin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,6 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
@@ -318,9 +318,13 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-h2#welcome-to-github-pages { color: #000000; }
+.btc-bars { width: 50px; height: auto; transform: rotate(180deg); margin-top: 10px; }
 
-.btc-bars { width: 50px; height: auto; transform: rotate(180deg); }
+.btn { width: 200px; text-align: center; }
 
-.navbar li > a { color: #ffffff; }
-.navbar li > a:hover { color: #ffff55; }
+.page-header { position: relative; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: left; }
+
+.main-menu { position: absolute; bottom: 20px; }
+.main-menu .navbar { list-style-type: none; padding: 0; margin: 0; margin-bottom: 15px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; }
+.main-menu .navbar li > a { font-weight: 300; font-size: 18px; color: #ffffff; padding: 5px 15px; }
+.main-menu .navbar li > a:hover { color: #ffff55; text-decoration: none; }
