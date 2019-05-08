@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "variables";
+
+h2#welcome-to-github-pages {
+	color: $red;
+}
