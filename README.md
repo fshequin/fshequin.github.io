@@ -1,2 +1,2 @@
 # fshequin.github.io
-developer ghpages site
+Wordpress & Laravel Developer
