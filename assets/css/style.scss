@@ -55,4 +55,24 @@ h2#welcome-to-github-pages {
 		}
 	}
 }
-
+.main-content {
+	.posts-list {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+		li {
+			margin-bottom: 10px;
+			a {
+				font-size: 20px;
+			}
+		}
+	}
+	.page-title {
+		margin-bottom: 30px;
+	}
+	.post-date {
+		font-size: 14px;
+		font-weight: 300;
+		color: $grey;
+	}
+}

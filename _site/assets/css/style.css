@@ -328,3 +328,9 @@ a:hover { text-decoration: underline; }
 .main-menu .navbar { list-style-type: none; padding: 0; margin: 0; margin-bottom: 15px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; }
 .main-menu .navbar li > a { font-weight: 300; font-size: 18px; color: #ffffff; padding: 5px 15px; }
 .main-menu .navbar li > a:hover { color: #ffff55; text-decoration: none; }
+
+.main-content .posts-list { list-style-type: none; padding: 0; margin: 0; }
+.main-content .posts-list li { margin-bottom: 10px; }
+.main-content .posts-list li a { font-size: 20px; }
+.main-content .page-title { margin-bottom: 30px; }
+.main-content .post-date { font-size: 14px; font-weight: 300; color: #999999; }

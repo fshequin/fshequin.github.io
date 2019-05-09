@@ -1,6 +1,10 @@
-## Welcome
+---
+layout: post
+title: "Test Post"
+date: 2019-5-8
+---
 
-You can use the [editor on GitHub](https://github.com/fshequin/fshequin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Test Post
 
 Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

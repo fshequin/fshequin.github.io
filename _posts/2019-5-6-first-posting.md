@@ -1,6 +1,10 @@
-## Welcome
+---
+layout: post
+title: "First Posting"
+date: 2019-5-6
+---
 
-You can use the [editor on GitHub](https://github.com/fshequin/fshequin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## First Posting
 
 Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
