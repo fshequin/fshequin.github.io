@@ -1,6 +1,6 @@
 ## Welcome
 
-This is an example of a simple "Serverless" website, hosted on Github for Free.
+**This is an example of a simple "Serverless" website, hosted on Github for Free.**
 
 You can use the [editor on GitHub](https://github.com/fshequin/fshequin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
